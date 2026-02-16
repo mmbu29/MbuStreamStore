@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.venv/
+__pycache__/
+.idea/
+*.pyc
+# If these data folders appear, ignore them
+postgres_data/
+kafka_kraft/
